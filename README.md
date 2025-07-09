@@ -2,6 +2,15 @@
 UNIQLO で購入できる AKAMAI のチャリティ T シャツに印刷された bash スクリプト  
 https://www.uniqlo.com/jp/ja/products/E480814-000/00?colorDisplayCode=30&sizeDisplayCode=004
 
+## files
+
+- formatted.sh
+実行可能なフォーマットに直したもの
+- decoded.sh
+base64 -d を実行したもの
+
+## 原本
+
 ```
 #!/bin/bash eval "$(base64 -d <<< 'IyEvYmluL2Jhc2gKCiMgQ29uZ3Jhd
 HVsYXRpb25zISBZb3UgZm91bmQgdGhlIGVhc3RlciBlZ2chIOKdhO+4jwojIOOBiuO
