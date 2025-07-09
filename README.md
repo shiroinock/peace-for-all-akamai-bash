@@ -6,8 +6,8 @@ https://www.uniqlo.com/jp/ja/products/E480814-000/00?colorDisplayCode=30&sizeDis
 
 - formatted.sh  
 実行可能なフォーマットに直したもの
-- decoded.sh
-base64 -d を実行したもの  
+- decoded.sh  
+base64 -d を実行したもの
 
 ## 原本
 
